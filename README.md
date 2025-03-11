@@ -12,7 +12,7 @@ O nosso projeto tem como base projetos do curso [B7Web](https://b7web.com.br/)
 
 Autor: **Denny Paulista Azevedo Filho**
 
-![Tela Principal](https://md.dev.br/img/sisweb/ModelCart.png)
+![Tela Principal](https://mdcursos.dev.br/img/sisweb/ModelCart.png)
 
 _Estes códigos estão sobre a licença_ **MIT**
 
